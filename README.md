@@ -47,8 +47,8 @@ Our AI-powered chatbot addresses this critical issue by providing real-time, acc
 
 
 ## Technical Approach
-```<h3>Technologies to be used:</h3>
-<ul><li>
+Technologies to be used:
+
 
 Artificial Intelligence (AI) & Machine Learning (ML):
 For real-time crop advisory, price prediction, loan risk alerts, and natural language understanding.
@@ -68,8 +68,8 @@ PostgreSQL or Firebase Realtime Database for storing user data, crop history, an
 Image Recognition (Computer Vision):
 To detect pests or diseases from photos uploaded by farmers (can use TensorFlow Lite or OpenCV).
 
-</li>```
-Methodology and Implementation Process:
+
+## Methodology and Implementation Process:
 ![Alt text](./FLOWCHART.jpeg)
 
 
