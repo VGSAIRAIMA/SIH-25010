@@ -70,18 +70,21 @@ To detect pests or diseases from photos uploaded by farmers (can use TensorFlow 
 
 </li>
 Methodology and Implementation Process:
-
+![Alt text](./FLOW CHART.jpeg)
 
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+<h3>The proposed AI-based market price tracking chatbot is highly feasible, as it leverages existing technologies such as speech-to-text, NLP, and government-provided APIs like Agmarknet and eNAM. Farmers can interact in their native language through simple voice input, while the system provides transparent mandi price updates and selling recommendations in easy-to-understand audio or text formats. With mobile penetration and improving rural connectivity, the solution can be deployed through a lightweight mobile app, ensuring accessibility for small and marginal farmers.
+
+In terms of viability, the solution directly addresses a pressing challenge: farmers being exploited by intermediaries due to lack of price awareness. By empowering them with real-time information, the chatbot helps secure fair prices, reduce losses, and improve overall profitability. Over time, this financial stability enables farmers to invest in quality fertilizers and adopt sustainable practices, thereby preserving soil fertility and productivity.
+
+The approach is scalable across different crops, regions, and languages, and aligns well with government initiatives in smart agriculture and rural development. While challenges such as data accuracy, connectivity, and farmer adoption exist, these can be mitigated through reliable data partnerships, hybrid online/offline features, and awareness programs. Overall, the solution is both practical and impactful, with the potential to transform rural livelihoods.</h3>
 
 ## Impact and Benefits
 With improved income from better sales decisions, farmers can invest in quality fertilizers and sustainable farming practices, which help maintain soil health and enhance long-term productivity. This not only boosts their profitability but also contributes to the sustainability of their farmland and overall livelihood of the farmers.
 
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+<h3>1. NABARD All India Rural Financial Inclusion Survey (NAFIS) 2021–22: This survey indicates that 86% of Indian farmers are small or marginal, highlighting their vulnerability to market exploitation. 
+
+
+2.ICT-based Agricultural Advisory Impact: Studies have shown that ICT-based advisories can increase crop yields by 20–30% by enabling data-driven decisions on pricing, input use, and timing of sales.</h3>
