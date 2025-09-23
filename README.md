@@ -70,7 +70,7 @@ To detect pests or diseases from photos uploaded by farmers (can use TensorFlow 
 
 
 ## Methodology and Implementation Process:
-![Alt text](./FLOWCHART.jpeg)
+![Alt text](./Flowchart.png)
 
 
 ## Feasibility and Viability
@@ -85,6 +85,4 @@ With improved income from better sales decisions, farmers can invest in quality 
 
 ## Research and References
 1. NABARD All India Rural Financial Inclusion Survey (NAFIS) 2021–22: This survey indicates that 86% of Indian farmers are small or marginal, highlighting their vulnerability to market exploitation. 
-
-
 2.ICT-based Agricultural Advisory Impact: Studies have shown that ICT-based advisories can increase crop yields by 20–30% by enabling data-driven decisions on pricing, input use, and timing of sales.
